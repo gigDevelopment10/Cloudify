@@ -1,5 +1,6 @@
 # Covid Data Engineering project 
 ### __Refrences__
+- boto s3 : https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html
 
 ## To do: 
 - [x] relational data model
