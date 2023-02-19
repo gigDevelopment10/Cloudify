@@ -9,3 +9,12 @@
 - [ ] save result to s3
 - [ ] build tables on redshift
 - [ ] copy data to redshift
+
+
+resources :
+
+https://docs.aws.amazon.com/ses/latest/dg/receiving-email-permissions.html
+
+https://docs.aws.amazon.com/ses/latest/dg/receiving-email-action-s3.html
+
+IAM : AmazonSESFullAccess
